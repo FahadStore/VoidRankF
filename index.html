@@ -1,0 +1,19 @@
+import tkinter as tk
+import subprocess
+
+def open_notepad():
+    subprocess.Popen("notepad")
+
+def open_calculator():
+    subprocess.Popen("calc")
+
+root = tk.Tk()
+root.title("تطبيقي")
+root.geometry("320x200")
+
+tk.Label(root, text="اختر برنامج تفتحه:").pack(pady=10)
+
+tk.Button(root, text="افتح المفكرة (Notepad)", command=open_notepad, height=2, width=25).pack(pady=5)
+tk.Button(root, text="افتح الحاسبة (Calculator)", command=open_calculator, height=2, width=25).pack(pady=5)
+
+root.mainloop()
