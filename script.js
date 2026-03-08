@@ -2086,6 +2086,816 @@ sections:[
 
   ]
 },
+{
+  id: 13,
+  chapter: 13,
+  title: "الجزء الثالث",
+  subtitle: "أصوات في الغابة",
+
+  sections: [
+
+    { type: "scene-break", content: "طريق غير مريح" },
+
+    { type: "narration", content: "استمر ياماتو وهانا في المشي بين الأشجار." },
+    { type: "narration", content: "الغابة أصبحت أكثر هدوءا." },
+    { type: "narration", content: "حتى الطيور توقفت عن الغناء." },
+    { type: "narration", content: "ياماتو لاحظ ذلك." },
+
+    { type: "dialogue", character: "ياماتو", content: "هل لاحظت شيئا؟" },
+    { type: "dialogue", character: "هانا", content: "ماذا؟" },
+    { type: "dialogue", character: "ياماتو", content: "الغابة هادئة جدا." },
+
+    { type: "narration", content: "هانا نظرت حولها." },
+
+    { type: "dialogue", character: "هانا", content: "ربما لأن الفرق الأخرى بعيدة." },
+    { type: "dialogue", character: "ياماتو", content: "أو لأن شيئا ما هنا." },
+
+    { type: "narration", content: "هانا توقفت." },
+    { type: "narration", content: "نظرت إليه." },
+
+    { type: "dialogue", character: "هانا", content: "أنت تتخيل." },
+    { type: "dialogue", character: "ياماتو", content: "أتمنى." },
+
+    { type: "narration", content: "ثم توقف فجأة." },
+
+    { type: "dialogue", character: "ياماتو", content: "لحظة." },
+    { type: "dialogue", character: "هانا", content: "ماذا الآن؟" },
+    { type: "dialogue", character: "ياماتو", content: "هل تسمعين هذا الصوت؟" },
+
+    { type: "combat", content: "خش… خش…" },
+    { type: "narration", content: "حركة بين الأشجار." },
+
+    { type: "whisper", character: "هانا", content: "تراجع خطوة." },
+    { type: "dialogue", character: "ياماتو", content: "لماذا؟" },
+    { type: "dialogue", character: "هانا", content: "فقط تراجع." },
+
+    { type: "narration", content: "ياماتو تراجع نصف خطوة." },
+
+    { type: "dialogue", character: "ياماتو", content: "حسنا…" },
+
+    { type: "narration", content: "ثم همس." },
+
+    { type: "whisper", character: "ياماتو", content: "لكن هذا لا يبدو كذئب." },
+    { type: "dialogue", character: "هانا", content: "لأنه ليس ذئبا." },
+
+    { type: "scene-break", content: "الوحش الجديد" },
+
+    { type: "narration", content: "من بين الأشجار خرج مخلوق غريب." },
+    { type: "narration", content: "جسد يشبه خنزيرا صغيرا." },
+    { type: "narration", content: "لكن ظهره مغطى بأشواك حجرية." },
+    { type: "narration", content: "وعيناه حادتان." },
+
+    { type: "narration", content: "ياماتو فتح عينيه." },
+
+    { type: "dialogue", character: "ياماتو", content: "ما هذا؟" },
+    { type: "dialogue", character: "هانا", content: "خنزير الأشواك." },
+    { type: "dialogue", character: "ياماتو", content: "اسم مخيف." },
+    { type: "dialogue", character: "هانا", content: "هو ليس قويا جدا." },
+    { type: "dialogue", character: "ياماتو", content: "كلمة ليس قويا جدا تقلقني الآن." },
+
+    { type: "narration", content: "الخنزير زمجر." },
+    { type: "narration", content: "بدأ يحفر الأرض." },
+
+    { type: "dialogue", character: "ياماتو", content: "هذا لا يبدو وديا." },
+    { type: "dialogue", character: "هانا", content: "إنه يستعد للهجوم." },
+    { type: "dialogue", character: "ياماتو", content: "رائع." },
+
+    { type: "narration", content: "ثم نظر إليها." },
+
+    { type: "dialogue", character: "ياماتو", content: "الخطة؟" },
+    { type: "dialogue", character: "هانا", content: "ابتعد عن الأشواك." },
+    { type: "dialogue", character: "ياماتو", content: "واضح." },
+
+    { type: "scene-break", content: "بداية القتال" },
+
+    { type: "narration", content: "الخنزير اندفع فجأة." },
+
+    { type: "shout", character: "ياماتو", content: "أوه!" },
+
+    { type: "narration", content: "قفز جانبا بسرعة." },
+    { type: "narration", content: "الأشواك مرت قرب ساقه." },
+
+    { type: "dialogue", character: "ياماتو", content: "هذا قريب جدا!" },
+
+    { type: "narration", content: "هانا رفعت يدها." },
+    { type: "skill", content: "تعويذة مستخدمة: رياح" },
+    { type: "shout", character: "هانا", content: "رياح!" },
+
+    { type: "narration", content: "اندفعت تعويذة صغيرة." },
+    { type: "narration", content: "ضربت جانب الوحش." },
+    { type: "narration", content: "الوحش تراجع خطوة." },
+
+    { type: "narration", content: "ياماتو ركض نحوه." },
+
+    { type: "shout", character: "ياماتو", content: "الآن دوري!" },
+
+    { type: "narration", content: "رفع العصا وضربه." },
+    { type: "combat", content: "طَخ!" },
+
+    { type: "narration", content: "الخنزير صرخ." },
+    { type: "narration", content: "ثم دار بسرعة." },
+    { type: "narration", content: "الأشواك مرت قرب ياماتو مرة أخرى." },
+
+    { type: "narration", content: "ياماتو تراجع بسرعة." },
+
+    { type: "dialogue", character: "ياماتو", content: "هذا الشيء لا يحبني." },
+    { type: "dialogue", character: "هانا", content: "اضربه من الجانب." },
+    { type: "dialogue", character: "ياماتو", content: "من الجانب؟" },
+    { type: "dialogue", character: "هانا", content: "الأشواك في الأعلى فقط." },
+    { type: "dialogue", character: "ياماتو", content: "كيف تعرفين ذلك؟" },
+    { type: "dialogue", character: "هانا", content: "اقرأ الكتب." },
+    { type: "dialogue", character: "ياماتو", content: "أنا بالكاد قرأت قائمة الطعام." },
+
+    { type: "scene-break", content: "ضربة مشتركة" },
+
+    { type: "narration", content: "الخنزير هجم مرة أخرى." },
+    { type: "narration", content: "هذه المرة ركض ياماتو حوله." },
+
+    { type: "skill", content: "تعويذة مستخدمة: رياح" },
+    { type: "narration", content: "هانا أطلقت تعويذة." },
+
+    { type: "narration", content: "الوحش انشغل بها." },
+    { type: "narration", content: "ياماتو ضربه من الجانب." },
+
+    { type: "combat", content: "بوم!" },
+
+    { type: "narration", content: "الخنزير صرخ." },
+    { type: "narration", content: "ثم ركض هاربا بين الأشجار." },
+
+    { type: "narration", content: "صمت." },
+
+    { type: "narration", content: "ياماتو جلس على الأرض." },
+
+    { type: "dialogue", character: "ياماتو", content: "حسنا…" },
+
+    { type: "narration", content: "ثم تنفس بعمق." },
+
+    { type: "dialogue", character: "ياماتو", content: "هذا أخطر من السابق." },
+
+    { type: "narration", content: "هانا جلست أيضا." },
+
+    { type: "dialogue", character: "هانا", content: "لكننا نجحنا." },
+    { type: "dialogue", character: "ياماتو", content: "بصعوبة." },
+
+    { type: "scene-break", content: "سؤال غريب" },
+
+    { type: "narration", content: "بعد لحظة…" },
+
+    { type: "narration", content: "نظر ياماتو إلى هانا." },
+
+    { type: "dialogue", character: "ياماتو", content: "لحظة." },
+    { type: "dialogue", character: "هانا", content: "ماذا؟" },
+    { type: "dialogue", character: "ياماتو", content: "كيف عرفت أن الأشواك في الأعلى فقط؟" },
+
+    { type: "narration", content: "هانا صمتت لحظة." },
+    { type: "narration", content: "ثم قالت." },
+
+    { type: "dialogue", character: "هانا", content: "قرأت عنه." },
+    { type: "dialogue", character: "ياماتو", content: "في كتاب؟" },
+    { type: "dialogue", character: "هانا", content: "نعم." },
+    { type: "dialogue", character: "ياماتو", content: "كم كتابا قرأت عن هذه الغابة؟" },
+    { type: "dialogue", character: "هانا", content: "بعض الكتب." },
+    { type: "dialogue", character: "ياماتو", content: "بعض؟" },
+    { type: "dialogue", character: "هانا", content: "نعم." },
+
+    { type: "narration", content: "ياماتو ضيق عينيه قليلا." },
+
+    { type: "dialogue", character: "ياماتو", content: "تبدين وكأنك تعرفين هذه الغابة." },
+
+    { type: "narration", content: "هانا ابتسمت بسرعة." },
+
+    { type: "dialogue", character: "هانا", content: "أنا فقط أقرأ كثيرا." },
+    { type: "dialogue", character: "ياماتو", content: "آه." },
+
+    { type: "narration", content: "ثم قال." },
+
+    { type: "dialogue", character: "ياماتو", content: "أنا أقرأ قليلا." },
+    { type: "dialogue", character: "هانا", content: "لاحظت." },
+    { type: "dialogue", character: "ياماتو", content: "لكنني أتعلم بسرعة." },
+
+    { type: "scene-break", content: "مزاح خفيف" },
+
+    { type: "narration", content: "بدأ الاثنان يمشيان مرة أخرى." },
+    { type: "narration", content: "ياماتو كان ينظر حوله." },
+
+    { type: "dialogue", character: "ياماتو", content: "إذا هاجمنا شيء أكبر…" },
+    { type: "dialogue", character: "هانا", content: "سنركض." },
+    { type: "dialogue", character: "ياماتو", content: "أخيرا خطة تعجبني." },
+
+    { type: "narration", content: "هانا ضحكت." },
+
+    { type: "dialogue", character: "ياماتو", content: "لكن ركضك أسرع مني على الأغلب." },
+    { type: "dialogue", character: "هانا", content: "ربما." },
+    { type: "dialogue", character: "ياماتو", content: "لا تتركيني." },
+    { type: "dialogue", character: "هانا", content: "لن أفعل." },
+    { type: "dialogue", character: "ياماتو", content: "وعد؟" },
+    { type: "dialogue", character: "هانا", content: "وعد." },
+
+    { type: "scene-break", content: "لحظة توتر" },
+
+    { type: "narration", content: "فجأة…" },
+    { type: "narration", content: "صدر صوت آخر." },
+    { type: "narration", content: "هذه المرة أقوى." },
+
+    { type: "combat", content: "غررررر" },
+
+    { type: "narration", content: "ياماتو تجمد." },
+
+    { type: "dialogue", character: "ياماتو", content: "لا يعجبني هذا الصوت." },
+
+    { type: "narration", content: "هانا نظرت بين الأشجار." },
+
+    { type: "dialogue", character: "هانا", content: "ولا أنا." },
+    { type: "dialogue", character: "ياماتو", content: "هل هو خنزير آخر؟" },
+    { type: "dialogue", character: "هانا", content: "لا." },
+    { type: "dialogue", character: "ياماتو", content: "كيف عرفت؟" },
+    { type: "dialogue", character: "هانا", content: "الصوت مختلف." },
+
+    { type: "narration", content: "ياماتو نظر إليها." },
+
+    { type: "dialogue", character: "ياماتو", content: "أنت تعرفين أصوات الوحوش أيضا؟" },
+    { type: "dialogue", character: "هانا", content: "قلت لك… أقرأ." },
+    { type: "dialogue", character: "ياماتو", content: "يجب أن أبدأ القراءة." },
+
+    { type: "scene-break", content: "شيء يقترب" },
+
+    { type: "narration", content: "الشجيرات بدأت تتحرك." },
+    { type: "narration", content: "الأرض اهتزت قليلا." },
+
+    { type: "narration", content: "ياماتو شد العصا بيده." },
+
+    { type: "dialogue", character: "ياماتو", content: "حسنا…" },
+
+    { type: "narration", content: "ثم ابتسم قليلا رغم التوتر." },
+
+    { type: "dialogue", character: "ياماتو", content: "المغامرة أصبحت أكثر إثارة." },
+
+    { type: "whisper", character: "هانا", content: "استعد." },
+    { type: "dialogue", character: "ياماتو", content: "أنا دائما مستعد." },
+
+    { type: "narration", content: "ثم أضاف." },
+
+    { type: "dialogue", character: "ياماتو", content: "تقريبا." },
+
+    { type: "chapter-end", content: "— نهاية الفصل الثالث — الجزء الثالث —" }
+
+  ]
+},
+{
+  id: 14,
+  chapter: 14,
+  title: "الجزء الرابع",
+  subtitle: "الظل بين الأشجار",
+
+  sections: [
+
+    { type: "scene-break", content: "قبل أن يظهر الوحش" },
+
+    { type: "narration", content: "اهتزت الشجيرات مرة أخرى." },
+    { type: "narration", content: "الأوراق تحركت بعنف." },
+    { type: "narration", content: "صوت ثقيل يقترب ببطء بين الأشجار." },
+
+    { type: "combat", content: "غرررر…" },
+
+    { type: "narration", content: "ياماتو شد قبضته على العصا." },
+
+    { type: "dialogue", character: "ياماتو", content: "حسنا…" },
+
+    { type: "narration", content: "ثم نظر إلى هانا." },
+
+    { type: "dialogue", character: "ياماتو", content: "ما هذا الصوت؟" },
+
+    { type: "narration", content: "هانا لم تجب مباشرة." },
+    { type: "narration", content: "كانت تنظر بتركيز نحو الأشجار." },
+    { type: "narration", content: "عيناها ضاقتا قليلا." },
+
+    { type: "whisper", character: "هانا", content: "لا تقف أمامي." },
+
+    { type: "dialogue", character: "ياماتو", content: "ماذا؟" },
+    { type: "dialogue", character: "هانا", content: "تحرك قليلا إلى اليسار." },
+
+    { type: "narration", content: "ياماتو رفع حاجبه." },
+
+    { type: "dialogue", character: "ياماتو", content: "لماذا؟" },
+    { type: "dialogue", character: "هانا", content: "فقط تحرك." },
+
+    { type: "narration", content: "ياماتو تحرك خطوة." },
+
+    { type: "dialogue", character: "ياماتو", content: "حسنا…" },
+
+    { type: "narration", content: "ثم قال." },
+
+    { type: "dialogue", character: "ياماتو", content: "لكن لماذا؟" },
+
+    { type: "narration", content: "هانا لم تجب." },
+    { type: "narration", content: "كانت ما تزال تحدق في الأشجار." },
+
+    { type: "scene-break", content: "ظهور الوحش" },
+
+    { type: "narration", content: "فجأة…" },
+    { type: "narration", content: "اندفع شيء ضخم من بين الأشجار." },
+
+    { type: "combat", content: "بووم!" },
+
+    { type: "narration", content: "الأرض اهتزت قليلا." },
+    { type: "narration", content: "مخلوق أكبر من الذئاب السابقة." },
+    { type: "narration", content: "جسمه عضلي." },
+    { type: "narration", content: "فراؤه داكن." },
+    { type: "narration", content: "وأنيابه طويلة." },
+
+    { type: "narration", content: "ياماتو فتح عينيه." },
+
+    { type: "dialogue", character: "ياماتو", content: "هذا…" },
+
+    { type: "narration", content: "ثم قال بصوت منخفض." },
+
+    { type: "dialogue", character: "ياماتو", content: "ليس صغيرا أبدا." },
+
+    { type: "whisper", character: "هانا", content: "ذئب الظل الكبير." },
+
+    { type: "dialogue", character: "ياماتو", content: "كبير؟!" },
+    { type: "dialogue", character: "هانا", content: "أقوى من السابق." },
+    { type: "dialogue", character: "ياماتو", content: "ممتاز…" },
+
+    { type: "narration", content: "ثم تمتم." },
+
+    { type: "dialogue", character: "ياماتو", content: "هذا يوم رائع." },
+
+    { type: "scene-break", content: "التوتر" },
+
+    { type: "narration", content: "الذئب بدأ يدور حولهما ببطء." },
+    { type: "narration", content: "عيناه الصفراء تلمعان." },
+
+    { type: "narration", content: "ياماتو رفع عصاه." },
+
+    { type: "dialogue", character: "ياماتو", content: "هل لديك خطة؟" },
+    { type: "dialogue", character: "هانا", content: "نعم." },
+    { type: "dialogue", character: "ياماتو", content: "ما هي؟" },
+    { type: "dialogue", character: "هانا", content: "لا تدعه يعضك." },
+    { type: "dialogue", character: "ياماتو", content: "هذه ليست خطة." },
+    { type: "dialogue", character: "هانا", content: "هذه نصيحة." },
+    { type: "dialogue", character: "ياماتو", content: "شكرا." },
+
+    { type: "scene-break", content: "الهجوم" },
+
+    { type: "narration", content: "فجأة…" },
+    { type: "narration", content: "قفز الذئب." },
+    { type: "narration", content: "سرعته كانت أعلى بكثير من الوحوش السابقة." },
+    { type: "narration", content: "ياماتو حاول تفاديه." },
+    { type: "narration", content: "لكنه كان متأخرا قليلا." },
+
+    { type: "combat", content: "خدش!" },
+
+    { type: "narration", content: "مخلب الذئب مر قرب ذراعه." },
+    { type: "narration", content: "قطع خفيف ظهر على جلده." },
+
+    { type: "narration", content: "ياماتو تراجع بسرعة." },
+
+    { type: "shout", character: "ياماتو", content: "آه!" },
+
+    { type: "narration", content: "نظر إلى ذراعه." },
+
+    { type: "dialogue", character: "ياماتو", content: "هذا ليس جيدا." },
+
+    { type: "shout", character: "هانا", content: "انتبه!" },
+
+    { type: "skill", content: "تعويذة مستخدمة: رياح قوية" },
+    { type: "narration", content: "أطلقت تعويذة رياح قوية." },
+
+    { type: "narration", content: "الذئب تراجع خطوة." },
+    { type: "narration", content: "ياماتو شد العصا بيده." },
+
+    { type: "dialogue", character: "ياماتو", content: "حسنا…" },
+
+    { type: "narration", content: "ثم قال." },
+
+    { type: "dialogue", character: "ياماتو", content: "الآن أنا غاضب قليلا." },
+
+    { type: "scene-break", content: "القتال الحقيقي" },
+
+    { type: "narration", content: "الذئب هجم مرة أخرى." },
+    { type: "narration", content: "هذه المرة ركض ياماتو جانبا." },
+    { type: "narration", content: "قفز فوق جذع شجرة صغير." },
+    { type: "narration", content: "الذئب مر تحته." },
+    { type: "narration", content: "ياماتو ضربه بالعصا من الأعلى." },
+
+    { type: "combat", content: "طَخ!" },
+
+    { type: "narration", content: "الذئب صرخ." },
+    { type: "narration", content: "لكنه لم يتراجع كثيرا." },
+
+    { type: "skill", content: "تعويذة مستخدمة: رياح قوية" },
+    { type: "narration", content: "هانا أطلقت تعويذة أخرى." },
+
+    { type: "narration", content: "الرياح دفعت الذئب قليلا." },
+
+    { type: "shout", character: "ياماتو", content: "مرة أخرى!" },
+    { type: "shout", character: "هانا", content: "الآن!" },
+
+    { type: "skill", content: "تعويذة مستخدمة: رياح قوية" },
+    { type: "narration", content: "اندفعت تعويذة الرياح." },
+
+    { type: "narration", content: "ياماتو ركض من الجانب." },
+    { type: "narration", content: "ضرب الذئب بقوة على رأسه." },
+
+    { type: "combat", content: "بوم!" },
+
+    { type: "narration", content: "الذئب تراجع عدة خطوات." },
+    { type: "narration", content: "ثم…" },
+    { type: "narration", content: "نظر إليهما للحظة." },
+    { type: "narration", content: "وزمجر." },
+    { type: "narration", content: "ثم ركض مبتعدا داخل الغابة." },
+
+    { type: "scene-break", content: "بعد القتال" },
+
+    { type: "narration", content: "الصمت عاد إلى الغابة." },
+    { type: "narration", content: "ياماتو جلس على الأرض." },
+    { type: "narration", content: "يتنفس بسرعة." },
+
+    { type: "dialogue", character: "ياماتو", content: "حسنا…" },
+
+    { type: "narration", content: "ثم نظر إلى ذراعه." },
+    { type: "narration", content: "الجرح كان صغيرا لكنه مؤلم." },
+
+    { type: "dialogue", character: "ياماتو", content: "أعتقد أنه خدشني." },
+
+    { type: "narration", content: "هانا اقتربت بسرعة." },
+
+    { type: "dialogue", character: "هانا", content: "دعني أرى." },
+
+    { type: "narration", content: "أمسكت ذراعه." },
+    { type: "narration", content: "تفحصت الجرح." },
+
+    { type: "dialogue", character: "هانا", content: "ليس عميقا." },
+    { type: "dialogue", character: "ياماتو", content: "هذا جيد." },
+
+    { type: "narration", content: "ثم ابتسم." },
+
+    { type: "dialogue", character: "ياماتو", content: "كنت أخاف أن أعود إلى الأكاديمية بذراع واحدة." },
+
+    { type: "narration", content: "هانا ضحكت قليلا." },
+    { type: "narration", content: "ثم أخرجت قطعة قماش صغيرة." },
+    { type: "narration", content: "لفت الجرح." },
+
+    { type: "dialogue", character: "هانا", content: "هذا سيوقف النزيف." },
+    { type: "dialogue", character: "ياماتو", content: "شكرا." },
+
+    { type: "scene-break", content: "سؤال غريب" },
+
+    { type: "narration", content: "بعد لحظة…" },
+    { type: "narration", content: "نظر ياماتو إليها." },
+
+    { type: "dialogue", character: "ياماتو", content: "هانا." },
+    { type: "dialogue", character: "هانا", content: "نعم؟" },
+    { type: "dialogue", character: "ياماتو", content: "قبل أن يظهر الوحش…" },
+    { type: "dialogue", character: "هانا", content: "ماذا؟" },
+    { type: "dialogue", character: "ياماتو", content: "طلبت مني التحرك إلى اليسار." },
+    { type: "dialogue", character: "هانا", content: "نعم." },
+    { type: "dialogue", character: "ياماتو", content: "لماذا؟" },
+
+    { type: "narration", content: "هانا صمتت لحظة." },
+
+    { type: "narration", content: "ياماتو تابع." },
+
+    { type: "dialogue", character: "ياماتو", content: "وكأنك كنت تعرفين من أين سيأتي." },
+
+    { type: "narration", content: "هانا نظرت إلى الأرض." },
+    { type: "narration", content: "ثم قالت بهدوء." },
+
+    { type: "dialogue", character: "هانا", content: "كنت أتوقع." },
+    { type: "dialogue", character: "ياماتو", content: "تتوقعين؟" },
+    { type: "dialogue", character: "هانا", content: "الذئاب تهاجم من اتجاه الريح عادة." },
+
+    { type: "narration", content: "ياماتو فكر قليلا." },
+
+    { type: "dialogue", character: "ياماتو", content: "هذا منطقي." },
+
+    { type: "narration", content: "ثم ابتسم." },
+
+    { type: "dialogue", character: "ياماتو", content: "يبدو أن القراءة مفيدة." },
+    { type: "dialogue", character: "هانا", content: "نعم." },
+
+    { type: "narration", content: "لكن للحظة قصيرة…" },
+    { type: "narration", content: "نظرتها تغيرت." },
+    { type: "narration", content: "كأنها تخفي شيئا." },
+    { type: "narration", content: "ثم عادت ابتسامتها." },
+
+    { type: "scene-break", content: "الاستمرار" },
+
+    { type: "narration", content: "وقف ياماتو ببطء." },
+    { type: "narration", content: "حرك ذراعه قليلا." },
+
+    { type: "dialogue", character: "ياماتو", content: "أعتقد أنني ما زلت حيا." },
+    { type: "dialogue", character: "هانا", content: "لحسن الحظ." },
+
+    { type: "narration", content: "ياماتو نظر إلى الغابة." },
+
+    { type: "dialogue", character: "ياماتو", content: "هل نكمل؟" },
+    { type: "dialogue", character: "هانا", content: "نعم." },
+
+    { type: "narration", content: "ياماتو ابتسم." },
+
+    { type: "dialogue", character: "ياماتو", content: "حسنا…" },
+
+    { type: "narration", content: "ثم قال بحماس خفيف." },
+
+    { type: "dialogue", character: "ياماتو", content: "لنر ماذا ينتظرنا أيضا." },
+
+    { type: "chapter-end", content: "— نهاية الفصل الثالث — الجزء الرابع —" }
+  ]
+},
+{
+  id: 15,
+  chapter: 15,
+  title: "الجزء الخامس",
+  subtitle: "صوت المعركة",
+
+  sections: [
+
+    { type: "scene-break", content: "بعد المواجهة" },
+
+    { type: "narration", content: "وقف ياماتو وهانا قرب جذع شجرة كبيرة." },
+    { type: "narration", content: "الريح تمر بين الأوراق." },
+    { type: "narration", content: "والغابة عادت هادئة مرة أخرى." },
+    { type: "narration", content: "ياماتو كان يحرك ذراعه قليلا." },
+
+    { type: "dialogue", character: "ياماتو", content: "هممم." },
+    { type: "dialogue", character: "هانا", content: "هل يؤلمك؟" },
+    { type: "dialogue", character: "ياماتو", content: "قليلا." },
+
+    { type: "narration", content: "ثم ابتسم." },
+
+    { type: "dialogue", character: "ياماتو", content: "لكنني ما زلت أستطيع حمل العصا." },
+    { type: "dialogue", character: "هانا", content: "هذا جيد." },
+    { type: "dialogue", character: "ياماتو", content: "هل يبدو الجرح مخيفا؟" },
+
+    { type: "narration", content: "هانا نظرت إلى ذراعه." },
+
+    { type: "dialogue", character: "هانا", content: "لا." },
+    { type: "dialogue", character: "ياماتو", content: "حقا؟" },
+    { type: "dialogue", character: "هانا", content: "خدش فقط." },
+
+    { type: "narration", content: "ياماتو تنهد براحة." },
+
+    { type: "dialogue", character: "ياماتو", content: "جيد… كنت أخاف أن يبدو بطوليا أكثر من اللازم." },
+
+    { type: "narration", content: "هانا ضحكت بخفة." },
+
+    { type: "dialogue", character: "هانا", content: "أنت غريب." },
+    { type: "dialogue", character: "ياماتو", content: "سمعت هذا كثيرا مؤخرا." },
+
+    { type: "scene-break", content: "السير داخل الغابة" },
+
+    { type: "narration", content: "بدأ الاثنان يمشيان ببطء مرة أخرى." },
+    { type: "narration", content: "الأرض أصبحت أكثر انحدارا." },
+    { type: "narration", content: "الأشجار أكثر كثافة." },
+    { type: "narration", content: "ياماتو كان ينظر حوله باستمرار." },
+
+    { type: "dialogue", character: "ياماتو", content: "هل تشعرين أننا دخلنا عميقا؟" },
+    { type: "dialogue", character: "هانا", content: "ربما." },
+    { type: "dialogue", character: "ياماتو", content: "هل هذا جيد؟" },
+    { type: "dialogue", character: "هانا", content: "ليس سيئا… طالما نعرف طريق العودة." },
+
+    { type: "narration", content: "ياماتو توقف." },
+
+    { type: "dialogue", character: "ياماتو", content: "هل نعرف طريق العودة؟" },
+
+    { type: "narration", content: "هانا صمتت لحظة." },
+
+    { type: "dialogue", character: "هانا", content: "تقريبا." },
+    { type: "dialogue", character: "ياماتو", content: "تقريبا؟" },
+    { type: "dialogue", character: "هانا", content: "نعم." },
+
+    { type: "narration", content: "ياماتو تنهد." },
+
+    { type: "dialogue", character: "ياماتو", content: "ممتاز." },
+
+    { type: "scene-break", content: "أصوات غريبة" },
+
+    { type: "narration", content: "فجأة…" },
+    { type: "narration", content: "سمعا صوتا بعيدا." },
+
+    { type: "combat", content: "بووم!" },
+    { type: "narration", content: "صوت انفجار سحري." },
+
+    { type: "narration", content: "ياماتو توقف." },
+
+    { type: "dialogue", character: "ياماتو", content: "هل سمعت ذلك؟" },
+    { type: "dialogue", character: "هانا", content: "نعم." },
+    { type: "dialogue", character: "ياماتو", content: "تعويذة؟" },
+    { type: "dialogue", character: "هانا", content: "يبدو كذلك." },
+
+    { type: "narration", content: "ثم تبعه صوت آخر." },
+
+    { type: "combat", content: "غرررررر!" },
+
+    { type: "narration", content: "ياماتو عبس." },
+
+    { type: "dialogue", character: "ياماتو", content: "هذا ليس جيدا." },
+
+    { type: "narration", content: "هانا نظرت في الاتجاه." },
+
+    { type: "dialogue", character: "هانا", content: "يبدو أن فريقا آخر يقاتل." },
+    { type: "dialogue", character: "ياماتو", content: "هل نذهب؟" },
+    { type: "dialogue", character: "هانا", content: "ربما يحتاجون مساعدة." },
+    { type: "dialogue", character: "ياماتو", content: "أو ربما لديهم الوضع تحت السيطرة." },
+    { type: "dialogue", character: "هانا", content: "لنلقي نظرة فقط." },
+
+    { type: "narration", content: "ياماتو تنهد." },
+
+    { type: "dialogue", character: "ياماتو", content: "حسنا… لكن لو كان وحشا ضخما سنركض." },
+    { type: "dialogue", character: "هانا", content: "اتفقنا." },
+
+    { type: "scene-break", content: "الاقتراب من المعركة" },
+
+    { type: "narration", content: "ركضا بين الأشجار." },
+    { type: "narration", content: "الأصوات أصبحت أقوى." },
+    { type: "narration", content: "أصوات صراخ." },
+    { type: "narration", content: "تعويذات." },
+    { type: "narration", content: "وأصوات مخالب تضرب الأرض." },
+    { type: "narration", content: "عندما وصلا…" },
+    { type: "narration", content: "توقف ياماتو فجأة." },
+
+    { type: "dialogue", character: "ياماتو", content: "أوه." },
+
+    { type: "narration", content: "أمامهما كان يقف ثلاثة طلاب." },
+    { type: "narration", content: "ومن بينهم…" },
+    { type: "narration", content: "الوسيم صاحب رتبة B." },
+    { type: "narration", content: "لكنهم كانوا في وضع سيئ." },
+    { type: "narration", content: "وحش ضخم يقف أمامهم." },
+    { type: "narration", content: "جسد يشبه دبّا صغيرا." },
+    { type: "narration", content: "لكن مخالبه طويلة." },
+    { type: "narration", content: "وعيناه حمراء." },
+
+    { type: "shout", character: "الطالب", content: "ابتعدوا!" },
+
+    { type: "narration", content: "الوسيم حاول إطلاق تعويذة." },
+    { type: "narration", content: "لكن الوحش ضرب الأرض بقوة." },
+
+    { type: "combat", content: "بووم!" },
+
+    { type: "narration", content: "الطلاب تراجعوا." },
+
+    { type: "whisper", character: "ياماتو", content: "هذا أكبر بكثير." },
+    { type: "dialogue", character: "هانا", content: "نعم." },
+    { type: "dialogue", character: "ياماتو", content: "خطة؟" },
+    { type: "dialogue", character: "هانا", content: "لا نتركهم." },
+    { type: "dialogue", character: "ياماتو", content: "كنت أعرف أنك ستقولين ذلك." },
+
+    { type: "scene-break", content: "الدخول في القتال" },
+
+    { type: "shout", character: "ياماتو", content: "أيها الدب!" },
+
+    { type: "narration", content: "الوحش التفت نحوه." },
+    { type: "narration", content: "الطلاب صدموا." },
+
+    { type: "shout", character: "الوسيم", content: "أنت؟!" },
+
+    { type: "dialogue", character: "ياماتو", content: "مرحبا." },
+
+    { type: "narration", content: "الطالب الآخر قال." },
+
+    { type: "shout", character: "الطالب", content: "ابتعد!" },
+
+    { type: "dialogue", character: "ياماتو", content: "لا أستطيع." },
+
+    { type: "narration", content: "ثم قال." },
+
+    { type: "dialogue", character: "ياماتو", content: "لقد رأيته أولا." },
+
+    { type: "narration", content: "الوحش هجم فجأة." },
+    { type: "narration", content: "ياماتو ركض جانبا." },
+
+    { type: "skill", content: "تعويذة مستخدمة: رياح قوية" },
+    { type: "narration", content: "هانا أطلقت تعويذة رياح قوية." },
+
+    { type: "narration", content: "الوحش تراجع نصف خطوة." },
+    { type: "narration", content: "الوسيم استغل الفرصة." },
+
+    { type: "skill", content: "تعويذة مستخدمة: برق" },
+    { type: "narration", content: "أطلق تعويذة برق." },
+
+    { type: "combat", content: "بزززز!" },
+
+    { type: "narration", content: "الوحش صرخ." },
+    { type: "narration", content: "الطالب الثالث ضربه بسيفه." },
+    { type: "narration", content: "الوحش تراجع أخيرا." },
+    { type: "narration", content: "ثم…" },
+    { type: "narration", content: "هرب بين الأشجار." },
+    { type: "narration", content: "صمت." },
+
+    { type: "scene-break", content: "بعد القتال" },
+
+    { type: "narration", content: "الطلاب وقفوا يلهثون." },
+
+    { type: "narration", content: "الوسيم نظر إلى ياماتو." },
+
+    { type: "dialogue", character: "الوسيم", content: "لماذا تدخلت؟" },
+    { type: "dialogue", character: "ياماتو", content: "لماذا لا؟" },
+    { type: "dialogue", character: "الوسيم", content: "كان يمكن أن تموت." },
+    { type: "dialogue", character: "ياماتو", content: "كنت أفكر في ذلك." },
+
+    { type: "narration", content: "الطالب الآخر قال." },
+
+    { type: "dialogue", character: "الطالب", content: "أنت… رتبة F." },
+    { type: "dialogue", character: "ياماتو", content: "نعم." },
+    { type: "dialogue", character: "الطالب", content: "لكن…" },
+
+    { type: "narration", content: "نظر إلى آثار القتال حوله." },
+
+    { type: "dialogue", character: "الطالب", content: "ساعدت." },
+
+    { type: "narration", content: "ياماتو رفع كتفيه." },
+
+    { type: "dialogue", character: "ياماتو", content: "فريق الاثنين." },
+
+    { type: "narration", content: "هانا ابتسمت بهدوء." },
+
+    { type: "scene-break", content: "ردود فعل" },
+
+    { type: "narration", content: "الوسيم نظر إلى هانا." },
+
+    { type: "dialogue", character: "الوسيم", content: "هل أنتما فريق؟" },
+    { type: "dialogue", character: "هانا", content: "نعم." },
+    { type: "dialogue", character: "الوسيم", content: "غريب." },
+    { type: "dialogue", character: "ياماتو", content: "لماذا؟" },
+    { type: "dialogue", character: "الوسيم", content: "لأن معظم الناس رفضوا فريقك." },
+    { type: "dialogue", character: "ياماتو", content: "هذا صحيح." },
+
+    { type: "narration", content: "ثم قال." },
+
+    { type: "dialogue", character: "ياماتو", content: "لكن يبدو أننا نجونا." },
+
+    { type: "narration", content: "الوسيم صمت لحظة." },
+    { type: "narration", content: "ثم قال بهدوء." },
+
+    { type: "dialogue", character: "الوسيم", content: "شكرا." },
+
+    { type: "narration", content: "ياماتو ابتسم." },
+
+    { type: "dialogue", character: "ياماتو", content: "لا تقل ذلك كثيرا… سأعتاد عليه." },
+
+    { type: "scene-break", content: "نهاية الاختبار" },
+
+    { type: "narration", content: "فجأة…" },
+    { type: "narration", content: "صدر صوت بعيد في الغابة." },
+
+    { type: "combat", content: "دونغ… دونغ…" },
+
+    { type: "narration", content: "ياماتو نظر حوله." },
+
+    { type: "dialogue", character: "ياماتو", content: "ما هذا؟" },
+
+    { type: "narration", content: "كينجي ظهر من بين الأشجار مع فريقه." },
+
+    { type: "dialogue", character: "كينجي", content: "إنه الجرس." },
+    { type: "dialogue", character: "ياماتو", content: "جرس؟" },
+    { type: "dialogue", character: "كينجي", content: "نهاية اختبار الغابة." },
+
+    { type: "narration", content: "ياماتو تنهد." },
+
+    { type: "dialogue", character: "ياماتو", content: "أخيرا." },
+
+    { type: "narration", content: "ثم نظر إلى هانا." },
+
+    { type: "dialogue", character: "ياماتو", content: "نجونا." },
+
+    { type: "narration", content: "هانا ابتسمت." },
+
+    { type: "dialogue", character: "هانا", content: "نعم." },
+
+    { type: "scene-break", content: "العودة" },
+
+    { type: "narration", content: "بدأ الطلاب يتجهون نحو مخرج الغابة." },
+    { type: "narration", content: "المجموعات تتجمع مرة أخرى." },
+    { type: "narration", content: "المدربون ينتظرون عند الحاجز السحري." },
+    { type: "narration", content: "ياماتو كان يمشي ببطء." },
+
+    { type: "narration", content: "كينجي اقترب منه." },
+
+    { type: "dialogue", character: "كينجي", content: "سمعت أنك قاتلت وحشا أكبر." },
+    { type: "dialogue", character: "ياماتو", content: "تقريبا." },
+    { type: "dialogue", character: "كينجي", content: "رتبة F؟" },
+    { type: "dialogue", character: "ياماتو", content: "رتبة F مع حظ جيد." },
+
+    { type: "narration", content: "كينجي ضحك." },
+
+    { type: "scene-break", content: "نظرة أخيرة" },
+    
+
+    { type: "narration", content: "بينما كانوا يخرجون من الغابة…" },
+    { type: "narration", content: "نظرت هانا إلى ياماتو للحظة." },
+    { type: "narration", content: "ابتسمت." },
+    { type: "narration", content: "لكن في عينيها…" },
+    { type: "narration", content: "مر بريق غامض." },
+    { type: "narration", content: "كأنها تراقبه." },
+    { type: "narration", content: "وتفكر بشيء." },
+    { type: "narration", content: "شيء لا يعرفه ياماتو بعد." },
+
+    { type: "chapter-end", content: "— نهاية الفصل الثالث —" }
+
+  ]
+},
 ];
 
 // ============================================================
@@ -2198,10 +3008,38 @@ function triggerCombatShake() {
 
 function assignFX(sections) {
   Object.keys(FX_MAP).forEach(key => delete FX_MAP[key]);
+
   sections.forEach((s, i) => {
-    if (s.type === 'combat') { if (s.content && s.content.includes('انفجار')) FX_MAP[i] = 'explosion'; else if (s.content && s.content.includes('نار')) FX_MAP[i] = 'fire'; else FX_MAP[i] = 'combat'; }
+    const txt = s.content || '';
+
+    if (s.type === 'combat') {
+      if (
+        txt.includes('انفجار') ||
+        txt.includes('بووم') ||
+        txt.includes('بوووم')
+      ) {
+        FX_MAP[i] = 'explosion';
+      } else if (txt.includes('نار')) {
+        FX_MAP[i] = 'fire';
+      } else {
+        FX_MAP[i] = 'combat';
+      }
+    }
+
     if (s.type === 'ice-combat') FX_MAP[i] = 'ice';
-    if (s.type === 'skill') FX_MAP[i] = 'skill';
+
+    if (s.type === 'skill') {
+      if (txt.includes('جليد') || txt.includes('ثلج') || txt.includes('صقيع')) {
+        FX_MAP[i] = 'ice';
+      } else if (txt.includes('نار') || txt.includes('لهب') || txt.includes('حريق')) {
+        FX_MAP[i] = 'fire';
+      } else if (txt.includes('انفجار') || txt.includes('تفجير')) {
+        FX_MAP[i] = 'explosion';
+      } else {
+        FX_MAP[i] = 'combat';
+      }
+    }
+
     if (s.type === 'shout') FX_MAP[i] = 'shake-light';
   });
 }
@@ -2230,6 +3068,9 @@ function processRanks(text) {
   return text.replace(/(SSS|SS|S|A|B|C|D|E|F)\./g, (match, rank) => `<span class="rank-badge rank-${rank}">Rank ${rank}</span>.`);
 }
 
+// ============================================================
+// getPartLabel
+// ============================================================
 function getPartLabel(id){
 
   const parts = {
@@ -2248,6 +3089,9 @@ function getPartLabel(id){
 
     11: "الفصل الثالث - الجزء الأول",
     12: "الفصل الثالث - الجزء الثاني",
+    13: "الفصل الثالث - الجزء الثالث",
+    14: "الفصل الثالث - الجزء الرابع",
+    15: "الفصل الثالث - الجزء الخامس",
 
   };
 
